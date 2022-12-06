@@ -43,6 +43,10 @@ const HeaderWrapper = styled.div`
         h4 {
             font-size: 1.5rem;
             font-weight: 300;
+
+            @media(max-width: 430px) {
+                font-size: 1rem;
+            }
         }
     }
 `
