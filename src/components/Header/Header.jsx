@@ -10,7 +10,7 @@ export const Header = () => {
                     <CurrencyExchangeIcon fontSize="xl"/>
                     <div>Coin<span className="text-primary">Converter</span></div>
                     </Typography>
-                <Typography variant="h4">easy and free coin converter</Typography>
+                <Typography variant="h4">easy and faster coin converter</Typography>
             </header>
         </HeaderWrapper>
     )
